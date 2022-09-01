@@ -1,0 +1,17 @@
+@media (min-width: 320px) {
+  .navbar-brand {
+    font-size: x-small;
+  }
+}
+
+@media (min-width: 1024px) {
+  .navbar-brand {
+    font-size: small;
+  }
+}
+
+@media (min-width: 1440px) {
+  .navbar-brand {
+    font-size: x-large;
+  }
+}

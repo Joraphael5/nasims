@@ -1,38 +1,481 @@
-.App {
-  text-align: center;
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/* p {
+  margin: 0;
+} */
+
+html,
+body {
+  margin: 0;
+  padding: 0;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+@media (min-width: 320px) {
+  .nas1 {
+    text-align: center;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+      url("./images/nassim3.jpg");
+    background-repeat: no-repeat;
+    /* padding-top: 20%; */
+  }
+
+  .nas2 {
+    font-size: x-small;
+    color: whitesmoke;
+  }
+
+  .nas6 {
+    display: none;
+  }
+
+  .nas7 {
+    text-align: center;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+      url("./images/nassim1.jpg");
+    background-repeat: no-repeat;
+    /* padding-top: 20%; */
+  }
+
+  .nas8 {
+    font-size: small;
+    color: whitesmoke;
+  }
+
+  .nas9 {
+    display: none;
+  }
+
+  .nas10 {
+    text-align: center;
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+      url("./images/nassim2.jpg");
+    background-repeat: no-repeat;
+    /* padding-top: 20%; */
+  }
+
+  .nas11 {
+    font-size: small;
+    color: whitesmoke;
+  }
+
+  .nas12 {
+    display: none;
+  }
+
+  .nas4 {
+    text-decoration: underline;
+  }
+
+  /* .nas13 {
+    border: 2px solid red;
+  } */
+
+  .nas16 {
+    padding: 2%;
+  }
+
+  .nas17 {
+    font-size: small;
+  }
+
+  .nas22 {
+    font-size: small;
+    text-align: center;
+  }
+
+  .nas20 {
+    margin-top: 30px;
+  }
+
+  .nas26 {
+    font-size: small;
+    text-align: center;
+  }
+
+  .nas27 {
+    font-size: small;
+  }
+
+  .nas28 {
+    font-size: large;
+  }
+
+  .btn {
+    font-size: small;
+  }
+
+  .carousel-control-prev {
+    margin-bottom: 4700px;
+  }
+
+  .carousel-control-next {
+    margin-bottom: 4700px;
+  }
+
+  .nas31 {
+    font-size: small;
+    padding-top: 20px;
+    text-align: center;
+  }
+
+  .card-text {
+    font-size: x-small;
+  }
+
+  .card {
+    width: 110%;
+  }
+
+  .nas30 {
+    background-color: rgb(244, 251, 234);
+    margin-top: 20%;
+  }
+
+  .nas35 {
+    width: 90%;
+    margin-left: 1px;
+  }
+
+  .btn2 {
+    width: 50%;
+  }
+
+  .nas36 {
+    text-align: center;
+  }
+
+  .nas37 {
+    font-size: small;
+  }
+
+  .nas38 {
+    background-color: rgb(13, 79, 13);
+  }
+
+  .nas39 {
+    font-size: x-small;
+  }
+
+  .nas40 {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+      url("./images/nassim13.jpg");
+    background-repeat: no-repeat;
+    padding-top: 30%;
+    padding-bottom: 20%;
+  }
+
+  .nas45 {
+    width: 100%;
+  }
+
+  .nas46 {
+    background-color: rgb(251, 232, 232);
+  }
+
+  .nas67 {
+    background-color: rgb(247, 247, 207);
+    padding: 10%;
+  }
+
+  .nas70 {
+    width: 100%;
+  }
+
+  .nas78 {
+    width: 100%;
+  }
+
+  .nas81 {
+    background-color: rgb(218, 249, 218);
+  }
+
+  .nas82 {
+    width: 300px;
+    height: 45px;
+  }
+
+  .nas90:link {
+    text-decoration: none;
   }
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+@media (min-width: 375px) {
+  /* smartphones, Android phones, landscape iPhone */
+  .nas40 {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+      url("./images/nassim13.jpg");
+    background-repeat: no-repeat;
+    padding-top: 30%;
+    padding-bottom: 14%;
   }
-  to {
-    transform: rotate(360deg);
+
+  .nas45 {
+    width: 100%;
+  }
+
+  .nas82 {
+    width: 350px;
+    height: 45px;
+  }
+}
+
+@media (min-width: 425px) {
+  /* smartphones, Android phones, landscape iPhone */
+  .nas40 {
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+      url("./images/nassim13.jpg");
+    background-repeat: no-repeat;
+    padding-top: 30%;
+    padding-bottom: 8%;
+  }
+
+  .nas82 {
+    width: 400px;
+    height: 45px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .nas1 {
+    display: flex;
+    background: none;
+    text-align: start;
+    height: 100%;
+  }
+
+  .nas2 {
+    font-size: small;
+    color: black;
+    width: 60%;
+    background-color: rgb(236, 253, 247);
+    padding-left: 30px;
+  }
+
+  .nas6 {
+    display: block;
+    width: 50%;
+  }
+
+  .nas7 {
+    display: flex;
+    background: none;
+    text-align: start;
+  }
+
+  .nas8 {
+    font-size: small;
+    color: black;
+    width: 50%;
+    background-color: rgb(251, 244, 245);
+    padding-left: 30px;
+  }
+
+  .carousel-inner {
+    height: 100%;
+  }
+
+  .nas9 {
+    display: block;
+    width: 50%;
+  }
+
+  .nas10 {
+    display: flex;
+    background: none;
+    text-align: start;
+  }
+
+  .nas11 {
+    font-size: small;
+    color: black;
+    width: 50%;
+    background-color: rgb(246, 242, 250);
+    padding-left: 30px;
+  }
+
+  .nas12 {
+    display: block;
+    width: 60%;
+  }
+
+  /* .nas16 {
+    margin-bottom: 50%;
+  } */
+
+  .nas20 {
+    display: flex;
+    /* border: 2px solid red; */
+    margin-top: 100px;
+  }
+
+  img.nas21 {
+    display: flex;
+    width: 100%;
+    height: 100%;
+  }
+
+  .nas22 {
+    width: 50%;
+    font-size: medium;
+  }
+
+  .nas13 {
+    height: 100%;
+  }
+
+  .nas25 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 70px;
+  }
+
+  img.nas29 {
+    display: flex;
+    width: 100%;
+    height: 100%;
+  }
+
+  .nas26 {
+    width: 50%;
+    font-size: medium;
+  }
+
+  .carousel-control-prev {
+    margin-bottom: 2500px;
+  }
+
+  .carousel-control-next {
+    margin-bottom: 2500px;
+  }
+
+  .nas31 {
+    font-size: large;
+  }
+
+  .nas36 {
+    margin-left: 250px;
+    width: 500px;
+  }
+
+  .card-text {
+    font-size: small;
+  }
+
+  .nas35 {
+    width: 95%;
+    margin-left: 8px;
+  }
+
+  .nas40 {
+    background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+      url("./images/nassim13.jpg");
+    background-repeat: no-repeat;
+    background-size: 120%;
+    padding-bottom: 2%;
+    padding-top: 15%;
+  }
+
+  .nas41 {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  img.nas45 {
+    display: flex;
+    width: 100%;
+    height: 100%;
+  }
+
+  .nas42 {
+    width: 50%;
+  }
+
+  .nas46 {
+    background-color: rgb(251, 232, 232);
+  }
+
+  .nas47 {
+    display: flex;
+  }
+
+  .nas52 {
+    display: flex;
+  }
+
+  .nas57 {
+    display: flex;
+  }
+
+  .nas62 {
+    display: flex;
+    padding-top: 20px;
+  }
+
+  .nas68 {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  img.nas70 {
+    display: flex;
+    width: 100%;
+    height: 100%;
+  }
+
+  .nas69 {
+    width: 50%;
+  }
+
+  .nas71 {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .nas73 {
+    width: 50%;
+  }
+
+  .nas77 {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .nas80 {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .nas82 {
+    border: 1px solid black;
+  }
+}
+
+@media (min-width: 1440px) {
+  .carousel-control-prev {
+    margin-bottom: 2700px;
+  }
+
+  .carousel-control-next {
+    margin-bottom: 2700px;
+  }
+
+  .nas36 {
+    margin-left: 450px;
+  }
+
+  .nas20 {
+    margin-top: 10%;
+  }
+
+  .nas11 {
+    width: 80%;
+  }
+
+  .nas8 {
+    width: 80%;
   }
 }
