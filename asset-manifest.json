@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/nasims/static/css/main.2a93fc0a.css",
+    "main.js": "/nasims/static/js/main.c8b262e9.js",
+    "static/js/787.1193e104.chunk.js": "/nasims/static/js/787.1193e104.chunk.js",
+    "static/media/nassim3.jpg": "/nasims/static/media/nassim3.7b80e409860fbf9c0a44.jpg",
+    "static/media/nassim16.png": "/nasims/static/media/nassim16.380eac3c3dede1946920.png",
+    "static/media/nassim1.jpg": "/nasims/static/media/nassim1.221f9aef771a76ad2eb0.jpg",
+    "static/media/nassim2.jpg": "/nasims/static/media/nassim2.de14d81a2c536b1d4d4c.jpg",
+    "static/media/nassim7.jpg": "/nasims/static/media/nassim7.4aef29cd1650c541b51f.jpg",
+    "static/media/nassim6.webp": "/nasims/static/media/nassim6.ad32e0b7a2c2a607e475.webp",
+    "static/media/nassim13.jpg": "/nasims/static/media/nassim13.74bba99318a52fdeb48f.jpg",
+    "static/media/nassim11.jpg": "/nasims/static/media/nassim11.6edb9521e085e0fa46af.jpg",
+    "static/media/nassim21.webp": "/nasims/static/media/nassim21.273eecac81244c8c56aa.webp",
+    "static/media/nassim15.webp": "/nasims/static/media/nassim15.a521a6875e13210848d5.webp",
+    "static/media/nassim5.webp": "/nasims/static/media/nassim5.fc3c93661727004f1344.webp",
+    "static/media/nassim8.jpg": "/nasims/static/media/nassim8.0e92bdd1c36a12fab145.jpg",
+    "static/media/nassim10.jpg": "/nasims/static/media/nassim10.5dd3269b1c49e6fd01e2.jpg",
+    "static/media/nassim18.webp": "/nasims/static/media/nassim18.065fda1166144edd54a1.webp",
+    "static/media/nassim20.webp": "/nasims/static/media/nassim20.9f43e5ff24a3d945a579.webp",
+    "static/media/nassim19.webp": "/nasims/static/media/nassim19.12c6fa3dc7c8a9996dbc.webp",
+    "static/media/nassim9.WEBP": "/nasims/static/media/nassim9.a2962919e2c7ff48b308.WEBP",
+    "static/media/nassim17.webp": "/nasims/static/media/nassim17.b6c84eb57094cc241f7c.webp",
+    "index.html": "/nasims/index.html",
+    "main.2a93fc0a.css.map": "/nasims/static/css/main.2a93fc0a.css.map",
+    "main.c8b262e9.js.map": "/nasims/static/js/main.c8b262e9.js.map",
+    "787.1193e104.chunk.js.map": "/nasims/static/js/787.1193e104.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a93fc0a.css",
+    "static/js/main.c8b262e9.js"
+  ]
+}
