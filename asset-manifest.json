@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nasims/static/css/main.2a93fc0a.css",
-    "main.js": "/nasims/static/js/main.c8b262e9.js",
+    "main.js": "/nasims/static/js/main.1a95ac63.js",
     "static/js/787.1193e104.chunk.js": "/nasims/static/js/787.1193e104.chunk.js",
     "static/media/nassim3.jpg": "/nasims/static/media/nassim3.7b80e409860fbf9c0a44.jpg",
     "static/media/nassim16.png": "/nasims/static/media/nassim16.380eac3c3dede1946920.png",
@@ -23,11 +23,11 @@
     "static/media/nassim17.webp": "/nasims/static/media/nassim17.b6c84eb57094cc241f7c.webp",
     "index.html": "/nasims/index.html",
     "main.2a93fc0a.css.map": "/nasims/static/css/main.2a93fc0a.css.map",
-    "main.c8b262e9.js.map": "/nasims/static/js/main.c8b262e9.js.map",
+    "main.1a95ac63.js.map": "/nasims/static/js/main.1a95ac63.js.map",
     "787.1193e104.chunk.js.map": "/nasims/static/js/787.1193e104.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2a93fc0a.css",
-    "static/js/main.c8b262e9.js"
+    "static/js/main.1a95ac63.js"
   ]
 }
